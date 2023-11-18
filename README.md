@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chaitanya Sawant
-- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, Artificial Intelligence.
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on python and Data Science project
+- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, and Artificial Intelligence.
+- 🌱 I’m currently working as a data analyst
+- 💞️ I’m looking to collaborate on Python and Data Science project
 - 📫 How to reach me chaitanyasawant1298@gmail.com
 
 <!---
