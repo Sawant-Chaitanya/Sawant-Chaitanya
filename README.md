@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/sawant--chaitanya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sawant--chaitanya" height="30" width="40" /></a>
 <a href="https://kaggle.com/chai1298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chai1298" height="30" width="40" /></a>
 <a href="https://medium.com/@chaitanya-sawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@chaitanya-sawant" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@chaitanya_shiva2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@chaitanya_shiva2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/chaitanya_shiva2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chaitanya_shiva2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
